@@ -10,6 +10,8 @@ Using [luatool.py](https://github.com/4refr0nt/luatool) to upload code:
 
 Be sure to upload both init.lua and main.lua
 
+The client name to be used in Crouton will show up serial monitor upon boot up.
+
 Learn more about [Crouton](http://crouton.mybluemix.net/), *a dashboard that lets you visualize and control your IOT devices with minimal setup*
 
 -------
