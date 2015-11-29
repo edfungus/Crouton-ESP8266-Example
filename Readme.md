@@ -1,6 +1,6 @@
 ### Demo Crouton device for ESP8266
 
-This demo has a togglable led on pin 14 and a dimmable led on pin 12. It is intended to be used with [Crouton](http://crouton.mybluemix.net/).
+This demo has a togglable led on pin 14 and a dimmable led on pin 12. It is intended to be used with [Crouton](http://crouton.mybluemix.net/). The MQTT Broker that it connects to in this demo is [test.mosquitto.org](test.mosquitto.org)
 
 Using [luatool.py](https://github.com/4refr0nt/luatool) to upload code:
 
